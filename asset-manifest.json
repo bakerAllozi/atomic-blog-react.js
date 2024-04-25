@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atomic-blog-react.js/static/css/main.1f78adec.css",
+    "main.js": "/atomic-blog-react.js/static/js/main.b59956e0.js",
+    "index.html": "/atomic-blog-react.js/index.html",
+    "main.1f78adec.css.map": "/atomic-blog-react.js/static/css/main.1f78adec.css.map",
+    "main.b59956e0.js.map": "/atomic-blog-react.js/static/js/main.b59956e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f78adec.css",
+    "static/js/main.b59956e0.js"
+  ]
+}
